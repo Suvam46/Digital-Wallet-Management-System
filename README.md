@@ -1,1 +1,4 @@
 # Digital-Wallet-Management-System
+This semester project, developed by a CS Engineering student from VTU, aims to create a web-based Digital Wallet Management System that tracks daily financial transactions, specifically borrowing and lending activities. Each user will have a personalized profile to manage and view their data securely. The project includes secure user registration and authentication, a user-friendly interface, and a robust database schema to store transaction data efficiently. Initial features focus on core functionalities, with plans for future updates to enhance capabilities such as expense categorization and budget planning. This project serves as a foundation for a comprehensive personal finance tool, designed to evolve based on user feedback and technological advancements.
+
+Database connection file location: /include/dbConn.php
